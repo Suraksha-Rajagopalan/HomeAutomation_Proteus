@@ -1,4 +1,4 @@
-![image](https://github.com/Suraksha-Rajagopalan/HomeAutomation_Proteus/assets/91787553/189b8588-6a60-43b8-93fd-f879d8f24997)# HomeAutomation_Proteus
+# HomeAutomation_Proteus
 
 
 ## Abstract:
