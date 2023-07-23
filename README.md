@@ -136,9 +136,10 @@ If the entered password is right the lock is opened which is mentioned in the LC
 ![image](https://github.com/Suraksha-Rajagopalan/HomeAutomation_Proteus/assets/91787553/2c42ddf4-a975-4a42-8515-9d81e78b4f9a)
 
 ## Components Used:
-•	Button
-•	Cell
-•	DC Fan
+
+- Button
+- Cell
+- DC Fan
 •	LM016L
 •	LM35
 •	LPC2138
