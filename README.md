@@ -140,10 +140,10 @@ If the entered password is right the lock is opened which is mentioned in the LC
 - Button
 - Cell
 - DC Fan
-•	LM016L
-•	LM35
-•	LPC2138
-•	OMIH-SH-112L
+- LM016L
+- LM35
+- LPC2138
+- OMIH-SH-112L
 
 ## Code:
 
